@@ -1,2 +1,9 @@
-# Final_Project_608
-COUNTRY-WISE BIG DATA ANALYSIS OF GHG EMISSIONS ACROSS KEY SECTORS
+# Final-Project
+Country-wise Big Data Analysis of GHG Emissions Across Key Sectors
+
+Tools required : Hadoop, Apache Spark, Python, Tableau.
+
+Data Source :Size: 17.8 Gb, 48 CSV Files
+
+https://climatetrace.org/
+
